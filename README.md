@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+collaboration-management
+# Collaboration Management
 
 > Slugline
 
