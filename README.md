@@ -17,6 +17,8 @@ collaboration-management
 
 **Executive Summary**
 
+![Image](https://github.com/user-attachments/assets/499c3fb6-835e-49d3-af31-685006db21e2)
+
 Text
 
 Generated with [Rytr](https://app.rytr.me)
